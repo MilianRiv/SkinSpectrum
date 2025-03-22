@@ -17,6 +17,7 @@ dependencies:
   http: ^1.3.0 # ✅ Agregar la dependencia
   shared_preferences: ^2.2.2  # 🔹 ¡Muévelo aquí!
 
+
   cupertino_icons: ^1.0.8
   flutter_native_splash: ^2.4.4
   google_fonts: ^6.2.1
